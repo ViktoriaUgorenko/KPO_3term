@@ -1,0 +1,3 @@
+C:\Users\olga\Documents\КПО\SE_Lab14\x64\Debug\SE_Lab14.exe
+C:\Users\olga\Documents\второй семестр\КПО\SE_Lab14\x64\Debug\SE_Lab14.exe
+C:\Users\user\Desktop\SE_Lab14\x64\Debug\SE_Lab14.exe
