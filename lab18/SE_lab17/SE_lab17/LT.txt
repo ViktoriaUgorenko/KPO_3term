@@ -1,0 +1,1 @@
+1	tfi(ti,ti)2	{3	dti;4	i=iv(ivi);5	ri;6	}

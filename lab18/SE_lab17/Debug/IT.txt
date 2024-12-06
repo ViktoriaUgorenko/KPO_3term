@@ -1,0 +1,29 @@
+   id  datatype    idtype      Line     value     Scope
+   fi       INT         F         1         0
+    x       INT         P         1         0         fi
+    y       INT         P         1         0         fi
+    z       INT         V         3         0         fi
+   fs       STR         F         7
+    a       STR         P         7         fs
+    b       STR         P         7         fs
+    c       STR         V         9         fs
+subst       STR         F        10         fs
+    a       STR         P        10         subst
+    p       INT         P        10         0         subst
+    n       INT         P        11         0         subst
+   L0       INT         L        12         1         fs
+   L1       INT         L        12         3         fs
+ main       INT         F        15         0
+    x       INT         V        17         0         main
+    y       INT         V        18         0         main
+    z       INT         V        19         0         main
+   sa       STR         V        20         main
+   sb       STR         V        21         main
+   sc       STR         V        22         main
+strle       INT         F        23         0         main
+    p       STR         P        23         strle
+   L2       INT         L        24         1         main
+   L3       INT         L        25         5         main
+   L5       STR         L        26      '1234567890'         main
+   L6       STR         L        27      '1234567890'         main
+   L6       INT         L        34         0         main

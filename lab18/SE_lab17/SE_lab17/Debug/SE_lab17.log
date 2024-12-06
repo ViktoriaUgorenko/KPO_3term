@@ -1,0 +1,70 @@
+﻿Сборка начата 14.11.2024 11:45:09.
+Уровень детализации журнала: Normal.     1>Проект "D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\SE_lab17.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "Debug\SE_lab17.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\SE_lab17.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Error.cpp Fst.cpp GRB.cpp In.cpp IT.cpp LA.cpp Log.cpp LT.cpp MFST.cpp Out.cpp Parm.cpp SE_lab17.cpp
+         Error.cpp
+         Fst.cpp
+     1>D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\Fst.cpp(63,17): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+         GRB.cpp
+         In.cpp
+     1>D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\In.cpp(31,36): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\In.cpp(75,12): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "ERROR_THROW_IN"
+     1>D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\In.cpp(15,17): warning C4101: symbol: неиспользованная локальная переменная
+         IT.cpp
+         LA.cpp
+     1>D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\LA.cpp(235,26): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\LA.cpp(268,24): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\LA.cpp(423,23): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\LA.cpp(430,23): warning C4018: <: несоответствие типов со знаком и без знака
+         Log.cpp
+         LT.cpp
+         MFST.cpp
+     1>D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\MFST.cpp(310,72): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+         Out.cpp
+         Parm.cpp
+         SE_lab17.cpp
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\БГТУ\КПО3сем\lab18\SE_lab17\Debug\SE_lab17.exe" /INCREMENTAL /ILK:"Debug\SE_lab17.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\БГТУ\КПО3сем\lab18\SE_lab17\Debug\SE_lab17.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\БГТУ\КПО3сем\lab18\SE_lab17\Debug\SE_lab17.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\Fst.obj
+         Debug\GRB.obj
+         Debug\In.obj
+         Debug\IT.obj
+         Debug\LA.obj
+         Debug\Log.obj
+         Debug\LT.obj
+         Debug\MFST.obj
+         Debug\Out.obj
+         Debug\Parm.obj
+         Debug\SE_lab17.obj
+         SE_lab17.vcxproj -> D:\БГТУ\КПО3сем\lab18\SE_lab17\Debug\SE_lab17.exe
+       TlogCleanup:
+         Следующие элементы будут удалены из tlogs, так как они были удалены из проекта или сборки: E:\lab18\SE_lab17\SE_lab17\Error.cpp.
+       FinalizeBuildStatus:
+         Файл "Debug\SE_lab17.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_lab17.tlog\SE_lab17.lastbuildstate".
+     1>Сборка проекта "D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\SE_lab17.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\SE_lab17.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\Fst.cpp(63,17): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+         D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\In.cpp(31,36): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\In.cpp(75,12): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "ERROR_THROW_IN"
+         D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\In.cpp(15,17): warning C4101: symbol: неиспользованная локальная переменная
+         D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\LA.cpp(235,26): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\LA.cpp(268,24): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\LA.cpp(423,23): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\LA.cpp(430,23): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\БГТУ\КПО3сем\lab18\SE_lab17\SE_lab17\MFST.cpp(310,72): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+
+    Предупреждений: 9
+    Ошибок: 0
+
+Прошло времени 00:00:07.63

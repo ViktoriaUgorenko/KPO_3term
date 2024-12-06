@@ -1,0 +1,51 @@
+Текст:без ошибки 
+Текст без ошибок 
+--— Аргументы —— 
+ -in: in.txt
+ -out: in.txt.out
+ -log: in.txt.log
+
+--— Протокол —— 
+21.10.2023 12:53:53 —— 
+--— Параметры —— 
+Количество символов: 591
+Строк: 35
+Пропущено: 0
+
+
+Таблица Лексем:
+tfi(ti,ti)
+{
+dti;
+i=iv(ivi);
+ri;
+};
+tfi(ti,ti)
+{
+dti;
+dtfi(ti,ti,
+ti);
+i=i(i,l,l)vi;
+ri;
+};
+m
+{
+dti;
+dti;
+dti;
+dti;
+dti;
+dti;
+dti(ti);
+i=l;
+i=l;
+i=l;
+i=l;
+i=i(i,i);
+i=i(i,i);
+pl;
+pi;
+pi;
+pi(i);
+rl;
+};
