@@ -1,0 +1,21 @@
+﻿Сборка начата 12.12.2024 0:35:21.
+Уровень детализации журнала: Normal.     1>Проект "D:\БГТУ\КПО3сем\SE_ASM4\SE_ASM4\SE_ASM4.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "Debug\SE_ASM4.tlog\unsuccessfulbuild".
+       _MASM:
+       Целевой объект "_MASM" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         SE_ASM4.vcxproj -> D:\БГТУ\КПО3сем\SE_ASM4\Debug\SE_ASM4.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_ASM4.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_ASM4.tlog\SE_ASM4.lastbuildstate".
+     1>Сборка проекта "D:\БГТУ\КПО3сем\SE_ASM4\SE_ASM4\SE_ASM4.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.12
